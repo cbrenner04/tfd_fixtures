@@ -47,3 +47,8 @@ group10:
 group11:
   title: Group 11
   arm: arm1
+
+group_phq:
+  creator: clinician1
+  title: PHQ Group
+  arm: arm1

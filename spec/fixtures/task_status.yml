@@ -1220,6 +1220,16 @@ task_status_14_5:
   task: think_module_distortion_viz
   start_day: 1
 
+task_status_do_past_due_activities1_5:
+  membership: membership5
+  task: do_past_due_activities
+  start_day: 1
+
+task_status_your_activities_viz1_5:
+  membership: membership5
+  task: do_your_activities_viz
+  start_day: 1
+
 task_status_create_activity_5:
   membership: membership5
   task: task_create_activity

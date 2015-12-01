@@ -48,6 +48,13 @@ task6:
   bit_core_content_module: think_patterns
   release_day: 1
 
+group11_task_1:
+  creator: user1
+  group: group11
+  bit_core_content_module: slideshow_content_module_17
+  release_day: 1
+  has_didactic_content: true
+
 task7:
   creator: clinician1
   group: group1
@@ -155,6 +162,69 @@ relax_autogenic_group1:
   group: group1
   bit_core_content_module: relax_autogenic_exercises
   release_day: 1
+  has_didactic_content: true
+
+group1_task_1:
+  creator: clinician1
+  group: group1
+  bit_core_content_module: slideshow_content_module_1
+  release_day: 1
+  has_didactic_content: true
+
+group1_task_5:
+  creator: clinician1
+  group: group1
+  bit_core_content_module: slideshow_content_module_5
+  release_day: 15
+  has_didactic_content: true
+
+group1_task_6:
+  creator: clinician1
+  group: group1
+  bit_core_content_module: slideshow_content_module_6
+  release_day: 15
+  has_didactic_content: true
+
+group1_task_7:
+  creator: clinician1
+  group: group1
+  bit_core_content_module: slideshow_content_module_7
+  release_day: 22
+  has_didactic_content: true
+
+group1_task_8:
+  creator: clinician1
+  group: group1
+  bit_core_content_module: slideshow_content_module_8
+  release_day: 29
+  has_didactic_content: true 
+
+group1_task_9:
+  creator: clinician1
+  group: group1
+  bit_core_content_module: slideshow_content_module_9
+  release_day: 36
+  has_didactic_content: true 
+
+group1_task_10:
+  creator: clinician1
+  group: group1
+  bit_core_content_module: slideshow_content_module_10
+  release_day: 43
+  has_didactic_content: true
+
+group1_task_11:
+  creator: clinician1
+  group: group1
+  bit_core_content_module: slideshow_content_module_11
+  release_day: 43
+  has_didactic_content: true
+
+group1_task_12:
+  creator: clinician1
+  group: group1
+  bit_core_content_module: slideshow_content_module_12
+  release_day: 50
   has_didactic_content: true
 
 task_awareness_for_group3:

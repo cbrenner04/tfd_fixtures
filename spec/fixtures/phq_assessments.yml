@@ -1,0 +1,519 @@
+# total score = 9
+<% (15..16).each do |i| %>
+  phq<%= i %>_assessment_10:
+    release_date: <%= Date.today - 67.days %>
+    q1: 1
+    q2: 2
+    q3: 0
+    q4: 1
+    q5: 2
+    q6: 1
+    q7: 1
+    q8: 1
+    q9: 0
+    participant: participant_phq_<%= i %>
+    created_at: <%= Time.zone.now - 67.days %>
+    updated_at: <%= Time.zone.now - 67.days %>
+<% end %>
+
+# total score = 9
+<% (12..16).each do |i| %>
+  phq<%= i %>_assessment_9:
+    release_date: <%= Date.today - 60.days %>
+    q1: 1
+    q2: 2
+    q3: 0
+    q4: 1
+    q5: 2
+    q6: 1
+    q7: 1
+    q8: 1
+    q9: 0
+    participant: participant_phq_<%= i %>
+    created_at: <%= Time.zone.now - 60.days %>
+    updated_at: <%= Time.zone.now - 60.days %>
+<% end %>
+
+# total score = 9
+<% (10..16).each do |i| %>
+  phq<%= i %>_assessment_8:
+    release_date: <%= Date.today - 53.days %>
+    q1: 1
+    q2: 2
+    q3: 0
+    q4: 1
+    q5: 2
+    q6: 1
+    q7: 1
+    q8: 1
+    q9: 0
+    participant: participant_phq_<%= i %>
+    created_at: <%= Time.zone.now - 53.days %>
+    updated_at: <%= Time.zone.now - 53.days %>
+<% end %>
+
+# total score = 9
+<% (10..16).each do |i| %>
+  phq<%= i %>_assessment_7:
+    release_date: <%= Date.today - 46.days %>
+    q1: 1
+    q2: 2
+    q3: 0
+    q4: 1
+    q5: 2
+    q6: 1
+    q7: 1
+    q8: 1
+    q9: 0
+    participant: participant_phq_<%= i %>
+    created_at: <%= Time.zone.now - 46.days %>
+    updated_at: <%= Time.zone.now - 46.days %>
+<% end %>
+
+# total score = 9
+<% (10..16).each do |i| %>
+  phq<%= i %>_assessment_6:
+    release_date: <%= Date.today - 39.days %>
+    q1: 1
+    q2: 2
+    q3: 0
+    q4: 1
+    q5: 2
+    q6: 1
+    q7: 1
+    q8: 1
+    q9: 0
+    participant: participant_phq_<%= i %>
+    created_at: <%= Time.zone.now - 39.days %>
+    updated_at: <%= Time.zone.now - 39.days %>
+<% end %>
+
+# total score = 9
+<% (10..16).each do |i| %>
+  phq<%= i %>_assessment_5:
+    release_date: <%= Date.today - 32.days %>
+    q1: 1
+    q2: 2
+    q3: 0
+    q4: 1
+    q5: 2
+    q6: 1
+    q7: 1
+    q8: 1
+    q9: 0
+    participant: participant_phq_<%= i %>
+    created_at: <%= Time.zone.now - 32.days %>
+    updated_at: <%= Time.zone.now - 32.days %>
+<% end %>
+
+# total score = 9
+<% (1..5).each do |i| %>
+  phq<%= i %>_assessment_4:
+    release_date: <%= Date.today - 25.days %>
+    q1: 1
+    q2: 2
+    q3: 0
+    q4: 1
+    q5: 2
+    q6: 1
+    q7: 1
+    q8: 1
+    q9: 0
+    participant: participant_phq_<%= i %>
+    created_at: <%= Time.zone.now - 25.days %>
+    updated_at: <%= Time.zone.now - 25.days %>
+<% end %>
+
+# total score = 9
+<% (7..16).each do |i| %>
+  phq<%= i %>_assessment_4:
+    release_date: <%= Date.today - 25.days %>
+    q1: 1
+    q2: 2
+    q3: 0
+    q4: 1
+    q5: 2
+    q6: 1
+    q7: 1
+    q8: 1
+    q9: 0
+    participant: participant_phq_<%= i %>
+    created_at: <%= Time.zone.now - 25.days %>
+    updated_at: <%= Time.zone.now - 25.days %>
+<% end %>
+
+# total score = 9
+<% (1..16).each do |i| %>
+  phq<%= i %>_assessment_3:
+    release_date: <%= Date.today - 18.days %>
+    q1: 1
+    q2: 2
+    q4: 1
+    q5: 2
+    q6: 1
+    q7: 1
+    q8: 1
+    participant: participant_phq_<%= i %>
+    created_at: <%= Time.zone.now - 18.days %>
+    updated_at: <%= Time.zone.now - 18.days %>
+<% end %>
+
+# total score = 17
+<% (1..7).each do |i| %>
+  phq<%= i %>_assessment_2:
+    release_date: <%= Date.today - 11.days %>
+    q1: 1
+    q2: 2
+    q3: 2
+    q4: 2
+    q5: 2
+    q6: 2
+    q7: 2
+    q8: 2
+    q9: 2
+    participant: participant_phq_<%= i %>
+    created_at: <%= Time.zone.now - 11.days %>
+    updated_at: <%= Time.zone.now - 11.days %>
+<% end %>
+
+# total score = 17
+<% (1..7).each do |i| %>
+  phq<%= i %>_assessment_1:
+    release_date: <%= Date.today - 4.days %>
+    q1: 1
+    q2: 2
+    q3: 2
+    q4: 2
+    q5: 2
+    q6: 2
+    q7: 2
+    q8: 2
+    q9: 2
+    participant: participant_phq_<%= i %>
+    created_at: <%= Time.zone.now - 4.days %>
+    updated_at: <%= Time.zone.now - 4.days %>
+<% end %>
+
+# total score = 18
+<% (8..8).each do |i| %>
+  phq<%= i %>_assessment_2:
+    release_date: <%= Date.today - 11.days %>
+    q1: 2
+    q2: 2
+    q3: 2
+    q4: 2
+    q5: 2
+    q6: 2
+    q7: 2
+    q8: 2
+    q9: 2
+    participant: participant_phq_<%= i %>
+    created_at: <%= Time.zone.now - 11.days %>
+    updated_at: <%= Time.zone.now - 11.days %>
+<% end %>
+
+# total score = 16
+<% (8..8).each do |i| %>
+  phq<%= i %>_assessment_1:
+    release_date: <%= Date.today - 4.days %>
+    q1: 1
+    q2: 2
+    q3: 2
+    q4: 2
+    q5: 1
+    q6: 2
+    q7: 2
+    q8: 2
+    q9: 2
+    participant: participant_phq_<%= i %>
+    created_at: <%= Time.zone.now - 4.days %>
+    updated_at: <%= Time.zone.now - 4.days %>
+<% end %>
+
+# total score = 4
+<% (9..9).each do |i| %>
+  phq<%= i %>_assessment_2:
+    release_date: <%= Date.today - 11.days %>
+    q1: 2
+    q2: 2
+    q3: 0
+    q4: 0
+    q5: 0
+    q6: 0
+    q7: 0
+    q8: 0
+    q9: 0
+    participant: participant_phq_<%= i %>
+    created_at: <%= Time.zone.now - 11.days %>
+    updated_at: <%= Time.zone.now - 11.days %>
+<% end %>
+
+# total score = 4
+<% (9..9).each do |i| %>
+  phq<%= i %>_assessment_1:
+    release_date: <%= Date.today - 4.days %>
+    q1: 1
+    q2: 1
+    q3: 1
+    q4: 1
+    q5: 0
+    q6: 0
+    q7: 0
+    q8: 0
+    q9: 0
+    participant: participant_phq_<%= i %>
+    created_at: <%= Time.zone.now - 4.days %>
+    updated_at: <%= Time.zone.now - 4.days %>
+<% end %>
+
+# total score = 17
+<% (10..10).each do |i| %>
+  phq<%= i %>_assessment_2:
+    release_date: <%= Date.today - 11.days %>
+    q1: 1
+    q2: 2
+    q3: 2
+    q4: 2
+    q5: 2
+    q6: 2
+    q7: 2
+    q8: 2
+    q9: 2
+    participant: participant_phq_<%= i %>
+    created_at: <%= Time.zone.now - 11.days %>
+    updated_at: <%= Time.zone.now - 11.days %>
+<% end %>
+
+# total score = 17
+<% (10..10).each do |i| %>
+  phq<%= i %>_assessment_1:
+    release_date: <%= Date.today - 4.days %>
+    q1: 1
+    q2: 2
+    q3: 2
+    q4: 2
+    q5: 2
+    q6: 2
+    q7: 2
+    q8: 2
+    q9: 2
+    participant: participant_phq_<%= i %>
+    created_at: <%= Time.zone.now - 4.days %>
+    updated_at: <%= Time.zone.now - 4.days %>
+<% end %>
+
+# total score = 18
+<% (11..11).each do |i| %>
+  phq<%= i %>_assessment_2:
+    release_date: <%= Date.today - 11.days %>
+    q1: 2
+    q2: 2
+    q3: 2
+    q4: 2
+    q5: 2
+    q6: 2
+    q7: 2
+    q8: 2
+    q9: 2
+    participant: participant_phq_<%= i %>
+    created_at: <%= Time.zone.now - 11.days %>
+    updated_at: <%= Time.zone.now - 11.days %>
+<% end %>
+
+# total score = 16
+<% (11..11).each do |i| %>
+  phq<%= i %>_assessment_1:
+    release_date: <%= Date.today - 4.days %>
+    q1: 1
+    q2: 2
+    q3: 2
+    q4: 2
+    q5: 1
+    q6: 2
+    q7: 2
+    q8: 2
+    q9: 2
+    participant: participant_phq_<%= i %>
+    created_at: <%= Time.zone.now - 4.days %>
+    updated_at: <%= Time.zone.now - 4.days %>
+<% end %>
+
+# total score = 4
+<% (12..12).each do |i| %>
+  phq<%= i %>_assessment_2:
+    release_date: <%= Date.today - 11.days %>
+    q1: 2
+    q2: 2
+    q3: 0
+    q4: 0
+    q5: 0
+    q6: 0
+    q7: 0
+    q8: 0
+    q9: 0
+    participant: participant_phq_<%= i %>
+    created_at: <%= Time.zone.now - 11.days %>
+    updated_at: <%= Time.zone.now - 11.days %>
+<% end %>
+
+# total score = 4
+<% (12..12).each do |i| %>
+  phq<%= i %>_assessment_1:
+    release_date: <%= Date.today - 4.days %>
+    q1: 1
+    q2: 1
+    q3: 1
+    q4: 1
+    q5: 0
+    q6: 0
+    q7: 0
+    q8: 0
+    q9: 0
+    participant: participant_phq_<%= i %>
+    created_at: <%= Time.zone.now - 4.days %>
+    updated_at: <%= Time.zone.now - 4.days %>
+<% end %>
+
+# total score = 17
+<% (13..13).each do |i| %>
+  phq<%= i %>_assessment_2:
+    release_date: <%= Date.today - 11.days %>
+    q1: 1
+    q2: 2
+    q3: 2
+    q4: 2
+    q5: 2
+    q6: 2
+    q7: 2
+    q8: 2
+    q9: 2
+    participant: participant_phq_<%= i %>
+    created_at: <%= Time.zone.now - 11.days %>
+    updated_at: <%= Time.zone.now - 11.days %>
+<% end %>
+
+# total score = 17
+<% (13..13).each do |i| %>
+  phq<%= i %>_assessment_1:
+    release_date: <%= Date.today - 4.days %>
+    q1: 1
+    q2: 2
+    q3: 2
+    q4: 2
+    q5: 2
+    q6: 2
+    q7: 2
+    q8: 2
+    q9: 2
+    participant: participant_phq_<%= i %>
+    created_at: <%= Time.zone.now - 4.days %>
+    updated_at: <%= Time.zone.now - 4.days %>
+<% end %>
+
+# total score = 23
+<% (14..14).each do |i| %>
+  phq<%= i %>_assessment_2:
+    release_date: <%= Date.today - 11.days %>
+    q1: 3
+    q2: 3
+    q3: 3
+    q4: 3
+    q5: 3
+    q6: 3
+    q7: 2
+    q8: 2
+    q9: 1
+    participant: participant_phq_<%= i %>
+    created_at: <%= Time.zone.now - 11.days %>
+    updated_at: <%= Time.zone.now - 11.days %>
+<% end %>
+
+# total score = 12
+<% (14..14).each do |i| %>
+  phq<%= i %>_assessment_1:
+    release_date: <%= Date.today - 4.days %>
+    q1: 1
+    q2: 2
+    q3: 2
+    q4: 2
+    q5: 1
+    q6: 2
+    q7: 2
+    q8: 0
+    q9: 0
+    participant: participant_phq_<%= i %>
+    created_at: <%= Time.zone.now - 4.days %>
+    updated_at: <%= Time.zone.now - 4.days %>
+<% end %>
+
+# total score = 13
+<% (15..15).each do |i| %>
+  phq<%= i %>_assessment_2:
+    release_date: <%= Date.today - 11.days %>
+    q1: 1
+    q2: 2
+    q3: 2
+    q4: 2
+    q5: 2
+    q6: 2
+    q7: 2
+    q8: 0
+    q9: 0
+    participant: participant_phq_<%= i %>
+    created_at: <%= Time.zone.now - 11.days %>
+    updated_at: <%= Time.zone.now - 11.days %>
+<% end %>
+
+# total score = 13
+<% (15..15).each do |i| %>
+  phq<%= i %>_assessment_1:
+    release_date: <%= Date.today - 4.days %>
+    q1: 1
+    q2: 2
+    q3: 2
+    q4: 2
+    q5: 2
+    q6: 2
+    q7: 2
+    q8: 0
+    q9: 0
+    participant: participant_phq_<%= i %>
+    created_at: <%= Time.zone.now - 4.days %>
+    updated_at: <%= Time.zone.now - 4.days %>
+<% end %>
+
+# total score = 12
+<% (16..16).each do |i| %>
+  phq<%= i %>_assessment_2:
+    release_date: <%= Date.today - 11.days %>
+    q1: 3
+    q2: 3
+    q3: 3
+    q4: 3
+    q5: 0
+    q6: 0
+    q7: 0
+    q8: 0
+    q9: 0
+    participant: participant_phq_<%= i %>
+    created_at: <%= Time.zone.now - 11.days %>
+    updated_at: <%= Time.zone.now - 11.days %>
+<% end %>
+
+# total score = 12
+<% (16..16).each do |i| %>
+  phq<%= i %>_assessment_1:
+    release_date: <%= Date.today - 4.days %>
+    q1: 1
+    q2: 2
+    q3: 2
+    q4: 2
+    q5: 1
+    q6: 2
+    q7: 2
+    q8: 0
+    q9: 0
+    participant: participant_phq_<%= i %>
+    created_at: <%= Time.zone.now - 4.days %>
+    updated_at: <%= Time.zone.now - 4.days %>
+<% end %>

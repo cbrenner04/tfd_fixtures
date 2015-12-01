@@ -73,3 +73,67 @@ assignment_data:
 assignment_test_7:
   participant: participant_test_7
   coach: clinician1
+
+assignment_for_phq_1:
+  participant: participant_phq_1
+  coach: clinician1
+
+assignment_for_phq_2:
+  participant: participant_phq_2
+  coach: clinician1
+
+assignment_for_phq_3:
+  participant: participant_phq_3
+  coach: clinician1
+
+assignment_for_phq_4:
+  participant: participant_phq_4
+  coach: clinician1
+
+assignment_for_phq_5:
+  participant: participant_phq_5
+  coach: clinician1
+
+assignment_for_phq_6:
+  participant: participant_phq_6
+  coach: clinician1
+
+assignment_for_phq_7:
+  participant: participant_phq_7
+  coach: clinician1
+
+assignment_for_phq_8:
+  participant: participant_phq_8
+  coach: clinician1
+
+assignment_for_phq_9:
+  participant: participant_phq_9
+  coach: clinician1
+
+assignment_for_phq_10:
+  participant: participant_phq_10
+  coach: clinician1
+
+assignment_for_phq_11:
+  participant: participant_phq_11
+  coach: clinician1
+
+assignment_for_phq_12:
+  participant: participant_phq_12
+  coach: clinician1
+
+assignment_for_phq_13:
+  participant: participant_phq_13
+  coach: clinician1
+
+assignment_for_phq_14:
+  participant: participant_phq_14
+  coach: clinician1
+
+assignment_for_phq_15:
+  participant: participant_phq_15
+  coach: clinician1
+
+assignment_for_phq_16:
+  participant: participant_phq_16
+  coach: clinician1

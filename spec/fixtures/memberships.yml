@@ -121,3 +121,99 @@ membership_test_7:
   group: group9
   start_date: <%= Date.today %>
   end_date: <%= Date.today + 7.days %>
+
+membership_phq_1:    
+  participant: participant_phq_1  
+  group: group_phq
+  start_date: <%= Date.today - 25.days %>    
+  end_date: <%= Date.today + 112.days %>
+
+membership_phq_2:    
+  participant: participant_phq_2  
+  group: group_phq
+  start_date: <%= Date.today - 25.days %>    
+  end_date: <%= Date.today + 112.days %>
+
+membership_phq_3:    
+  participant: participant_phq_3  
+  group: group_phq
+  start_date: <%= Date.today - 25.days %>    
+  end_date: <%= Date.today + 112.days %>
+
+membership_phq_4:    
+  participant: participant_phq_4  
+  group: group_phq
+  start_date: <%= Date.today - 25.days %>    
+  end_date: <%= Date.today + 112.days %>
+
+membership_phq_5:    
+  participant: participant_phq_5  
+  group: group_phq
+  start_date: <%= Date.today - 25.days %>    
+  end_date: <%= Date.today + 112.days %>
+
+membership_phq_6:    
+  participant: participant_phq_6
+  group: group_phq
+  start_date: <%= Date.today - 18.days %>    
+  end_date: <%= Date.today + 112.days %>
+
+membership_phq_7:    
+  participant: participant_phq_7
+  group: group_phq
+  start_date: <%= Date.today - 25.days %>    
+  end_date: <%= Date.today + 112.days %>
+
+membership_phq_8:    
+  participant: participant_phq_8 
+  group: group_phq
+  start_date: <%= Date.today - 25.days %>    
+  end_date: <%= Date.today + 112.days %>
+
+membership_phq_9:    
+  participant: participant_phq_9 
+  group: group_phq
+  start_date: <%= Date.today - 25.days %>    
+  end_date: <%= Date.today + 112.days %>
+
+membership_phq_10:    
+  participant: participant_phq_10  
+  group: group_phq
+  start_date: <%= Date.today - 53.days %>    
+  end_date: <%= Date.today + 112.days %>
+
+membership_phq_11:    
+  participant: participant_phq_11  
+  group: group_phq
+  start_date: <%= Date.today - 53.days %>    
+  end_date: <%= Date.today + 112.days %>
+
+membership_phq_12:    
+  participant: participant_phq_12  
+  group: group_phq
+  start_date: <%= Date.today - 60.days %>    
+  end_date: <%= Date.today + 112.days %>
+
+membership_phq_13:    
+  participant: participant_phq_13  
+  group: group_phq
+  start_date: <%= Date.today - 60.days %>    
+  end_date: <%= Date.today + 112.days %>
+
+membership_phq_14:    
+  participant: participant_phq_14  
+  group: group_phq
+  start_date: <%= Date.today - 60.days %>    
+  end_date: <%= Date.today + 112.days %>
+
+membership_phq_15:    
+  participant: participant_phq_15
+  group: group_phq
+  start_date: <%= Date.today - 67.days %>    
+  end_date: <%= Date.today + 112.days %>
+
+membership_phq_16:    
+  participant: participant_phq_16
+  group: group_phq
+  start_date: <%= Date.today - 67.days %>    
+  end_date: <%= Date.today + 112.days %>

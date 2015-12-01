@@ -19,6 +19,20 @@ moderator_to_participant3:
   body: "Here's a link to the introduction slideshow: [Introduction to ThinkFeelDo](/participants/public_slideshows/171736398/slides/201060073) I do."
   sent_at: <%= Time.zone.now - 2.hours %>
 
+participant_to_coach2:
+  sender: participant2 (Participant)
+  recipient: user2 (User)
+  subject: I like this thing yo!
+  body: This app is really helpful!
+  sent_at: <%= Time.zone.now %>
+
+active_participant_to_moderator:
+  sender: active_participant (Participant)
+  recipient: clinician1 (User)
+  subject: Yadda yadda
+  body: Blah blah
+  sent_at: <%= Time.zone.now %>
+
 pt_data_to_coach:
   sender: participant_data (Participant)
   recipient: clinician1 (User)
